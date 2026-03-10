@@ -212,5 +212,3 @@ console.log(values);
 console.table(values);
 
 /* the above code creates a 2D array where each inner array contains the value of x, x multiplied by 2, and x multiplied by 2 raised to the power of 2. The console.table() method is used to display the values in a tabular format in the console, making it easier to read and understand the data. Each row of the table corresponds to an inner array, and each column corresponds to a specific value (x, x*2, x*2**2). This allows us to easily compare the values across different rows and columns. */
-
-
